@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        ".",
+        "LanguageBasics"
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Users\\hp\\Downloads\\hamcrest-core-1.3.jar",
+        "c:\\Users\\hp\\Downloads\\junit-4.13.2.jar"
+    ]
+}
